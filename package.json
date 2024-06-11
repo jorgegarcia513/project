@@ -1,7 +1,7 @@
 {
   "name": "web-project",
   "version": "0.1.0",
-  "homepage": "https://jorgegarcia513.github.io/projectq",
+  "homepage": "https://jorgegarcia513.github.io/project",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
